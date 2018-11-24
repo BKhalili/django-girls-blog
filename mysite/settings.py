@@ -25,7 +25,7 @@ SECRET_KEY = '$rmz(uc!4i$=*=k55)!k&7!f8u5meo)gagl6%)or0r4d5rhp!8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','bita.pythonanywhere.com']
 
 
 # Application definition
